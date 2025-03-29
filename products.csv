@@ -1,0 +1,501 @@
+ProductID,Name,Category,Price,StockLevel
+0,inside,Toys,174.03,41
+1,order,Books,224.97,19
+2,vote,Home Appliances,323.86,2
+3,pull,Clothing,217.08,73
+4,charge,Home Appliances,76.78,31
+5,often,Electronics,270.48,60
+6,rich,Clothing,280.76,68
+7,crime,Clothing,131.16,71
+8,prevent,Toys,149.36,39
+9,its,Electronics,57.29,68
+10,traditional,Home Appliances,190.66,79
+11,him,Toys,184.06,89
+12,person,Electronics,434.61,29
+13,benefit,Toys,116.29,80
+14,base,Home Appliances,465.18,96
+15,step,Home Appliances,341.25,71
+16,main,Home Appliances,55.68,29
+17,it,Home Appliances,184.3,36
+18,state,Electronics,412.11,33
+19,better,Clothing,280.69,39
+20,however,Toys,269.85,23
+21,now,Clothing,434.64,67
+22,may,Electronics,139.62,49
+23,you,Electronics,424.06,58
+24,write,Toys,56.59,13
+25,food,Clothing,197.9,85
+26,guy,Books,144.57,43
+27,young,Home Appliances,291.42,4
+28,national,Books,246.88,2
+29,listen,Toys,414.76,91
+30,trouble,Electronics,390.32,85
+31,check,Electronics,479.66,11
+32,explain,Books,460.25,63
+33,child,Books,444.45,43
+34,share,Electronics,314.36,8
+35,situation,Electronics,294.88,6
+36,message,Electronics,443.9,70
+37,visit,Electronics,23.03,42
+38,cut,Electronics,404.25,50
+39,natural,Home Appliances,160.69,67
+40,benefit,Home Appliances,167.1,42
+41,memory,Home Appliances,481.95,19
+42,medical,Toys,498.62,73
+43,issue,Home Appliances,198.04,46
+44,TV,Clothing,303.65,32
+45,history,Books,68.85,53
+46,difference,Books,295.24,82
+47,thank,Electronics,332.39,95
+48,save,Books,350.23,17
+49,upon,Toys,294.0,94
+50,as,Books,29.27,20
+51,measure,Clothing,174.62,63
+52,image,Toys,447.28,78
+53,modern,Home Appliances,388.58,2
+54,blue,Clothing,27.13,67
+55,build,Clothing,211.19,83
+56,security,Home Appliances,39.17,54
+57,consumer,Clothing,449.67,61
+58,stuff,Toys,262.61,35
+59,current,Toys,145.43,24
+60,bag,Home Appliances,492.36,2
+61,exactly,Electronics,491.56,78
+62,similar,Books,185.67,100
+63,hard,Home Appliances,212.68,36
+64,happen,Clothing,476.17,56
+65,note,Clothing,426.45,65
+66,always,Home Appliances,236.91,95
+67,wish,Home Appliances,171.69,76
+68,medical,Toys,386.74,37
+69,blue,Clothing,108.09,74
+70,charge,Toys,323.06,97
+71,type,Clothing,129.3,58
+72,fund,Home Appliances,450.72,47
+73,under,Clothing,464.07,5
+74,boy,Electronics,401.12,91
+75,short,Clothing,465.89,14
+76,eye,Toys,455.1,78
+77,open,Books,178.23,35
+78,attorney,Clothing,345.02,29
+79,maybe,Home Appliances,197.93,43
+80,tax,Toys,260.9,9
+81,boy,Books,368.54,25
+82,determine,Home Appliances,285.54,71
+83,article,Books,214.04,87
+84,part,Electronics,23.64,93
+85,raise,Toys,163.12,71
+86,certainly,Clothing,402.58,69
+87,important,Books,45.22,44
+88,discussion,Clothing,247.61,43
+89,everyone,Electronics,229.08,65
+90,pass,Home Appliances,481.48,75
+91,event,Clothing,319.19,28
+92,lead,Books,96.34,89
+93,ready,Clothing,489.03,80
+94,fish,Toys,343.67,37
+95,say,Home Appliances,275.08,10
+96,rich,Clothing,16.92,44
+97,program,Electronics,27.17,55
+98,condition,Books,113.38,70
+99,system,Clothing,443.38,37
+100,scene,Electronics,387.67,53
+101,state,Books,441.1,75
+102,last,Home Appliances,476.19,12
+103,through,Home Appliances,15.47,71
+104,much,Clothing,228.05,15
+105,lawyer,Toys,475.27,1
+106,hair,Books,264.87,90
+107,key,Clothing,397.58,75
+108,interesting,Home Appliances,368.64,79
+109,report,Home Appliances,406.51,22
+110,ask,Electronics,425.19,48
+111,memory,Clothing,464.53,18
+112,yes,Toys,194.96,70
+113,use,Toys,289.73,43
+114,challenge,Books,458.44,84
+115,fight,Clothing,45.73,67
+116,interview,Home Appliances,77.21,24
+117,truth,Home Appliances,233.23,0
+118,loss,Toys,87.17,46
+119,can,Electronics,18.11,73
+120,able,Electronics,238.33,84
+121,we,Electronics,427.2,18
+122,into,Books,117.79,78
+123,process,Toys,452.17,64
+124,speak,Toys,398.45,61
+125,husband,Toys,439.05,22
+126,relationship,Electronics,145.45,87
+127,star,Toys,111.62,100
+128,bag,Toys,245.93,98
+129,her,Electronics,93.2,49
+130,dinner,Clothing,102.65,66
+131,receive,Electronics,309.71,52
+132,popular,Toys,19.15,22
+133,blood,Clothing,234.46,44
+134,identify,Clothing,201.59,0
+135,voice,Electronics,237.6,22
+136,prepare,Books,234.11,7
+137,nature,Books,399.33,72
+138,true,Clothing,173.98,39
+139,against,Toys,181.08,79
+140,firm,Clothing,347.41,39
+141,Congress,Clothing,147.28,64
+142,stop,Home Appliances,107.01,15
+143,inside,Toys,109.1,54
+144,bit,Electronics,410.22,8
+145,discuss,Electronics,450.5,39
+146,training,Electronics,426.75,84
+147,majority,Clothing,285.49,52
+148,society,Electronics,366.49,48
+149,door,Electronics,106.34,97
+150,media,Clothing,78.63,90
+151,rather,Toys,258.27,29
+152,here,Home Appliances,351.06,1
+153,like,Electronics,110.11,89
+154,community,Electronics,111.71,68
+155,allow,Books,387.28,20
+156,run,Home Appliances,376.47,50
+157,run,Electronics,378.8,5
+158,cost,Home Appliances,12.47,54
+159,lead,Electronics,10.92,64
+160,large,Clothing,382.75,15
+161,fish,Books,206.9,23
+162,this,Books,58.74,75
+163,spend,Electronics,58.04,45
+164,marriage,Electronics,483.7,2
+165,north,Electronics,288.19,14
+166,street,Clothing,29.02,81
+167,southern,Clothing,317.35,55
+168,song,Books,126.02,42
+169,rate,Toys,368.17,26
+170,mention,Toys,123.74,53
+171,boy,Clothing,345.44,0
+172,letter,Clothing,411.61,36
+173,radio,Home Appliances,319.82,50
+174,next,Toys,322.19,69
+175,many,Toys,216.52,52
+176,investment,Electronics,340.16,17
+177,him,Clothing,210.83,91
+178,white,Home Appliances,242.91,72
+179,near,Books,455.31,13
+180,fine,Toys,234.36,50
+181,partner,Books,171.91,26
+182,recently,Toys,348.98,97
+183,star,Toys,256.54,4
+184,series,Home Appliances,51.92,18
+185,treatment,Toys,413.12,83
+186,recently,Books,337.78,69
+187,until,Clothing,60.63,49
+188,street,Home Appliances,237.91,71
+189,section,Clothing,372.39,26
+190,full,Toys,429.78,54
+191,candidate,Electronics,270.05,38
+192,southern,Clothing,253.62,63
+193,responsibility,Home Appliances,173.15,28
+194,activity,Electronics,410.32,60
+195,control,Clothing,417.0,3
+196,even,Toys,17.03,81
+197,that,Clothing,195.98,51
+198,their,Books,191.76,10
+199,live,Books,172.47,36
+200,arrive,Home Appliances,138.63,0
+201,term,Books,47.2,99
+202,hold,Books,210.98,18
+203,expect,Clothing,447.14,10
+204,skin,Clothing,31.58,38
+205,out,Clothing,206.63,43
+206,him,Home Appliances,448.73,87
+207,part,Toys,86.14,60
+208,operation,Home Appliances,419.05,75
+209,include,Electronics,54.04,48
+210,avoid,Clothing,51.0,12
+211,kid,Home Appliances,218.47,5
+212,free,Electronics,434.96,62
+213,gun,Home Appliances,47.87,2
+214,discuss,Books,167.87,32
+215,on,Clothing,113.68,67
+216,knowledge,Home Appliances,402.89,94
+217,billion,Clothing,340.02,66
+218,black,Home Appliances,408.04,95
+219,kind,Electronics,155.29,89
+220,PM,Toys,434.21,41
+221,other,Electronics,295.45,92
+222,rate,Toys,422.85,58
+223,never,Clothing,476.51,37
+224,road,Electronics,25.45,31
+225,state,Home Appliances,122.41,63
+226,appear,Books,141.21,61
+227,another,Electronics,133.82,27
+228,later,Books,360.23,6
+229,unit,Electronics,250.84,7
+230,would,Books,453.56,68
+231,scientist,Books,385.47,22
+232,stay,Home Appliances,14.56,21
+233,movement,Clothing,400.17,20
+234,interview,Home Appliances,217.86,35
+235,east,Home Appliances,15.55,58
+236,great,Home Appliances,297.4,51
+237,notice,Toys,291.52,7
+238,quickly,Clothing,452.89,26
+239,thought,Home Appliances,457.94,42
+240,child,Clothing,97.22,52
+241,way,Books,271.45,75
+242,bag,Toys,435.11,16
+243,wall,Toys,172.84,16
+244,ago,Electronics,165.28,33
+245,particularly,Electronics,154.49,45
+246,last,Books,168.36,64
+247,pretty,Electronics,455.7,95
+248,generation,Clothing,425.28,83
+249,mean,Home Appliances,93.74,41
+250,computer,Clothing,283.41,5
+251,charge,Home Appliances,244.69,44
+252,physical,Electronics,408.49,60
+253,book,Home Appliances,157.23,63
+254,candidate,Clothing,268.28,42
+255,age,Home Appliances,223.56,86
+256,indicate,Books,355.7,92
+257,laugh,Books,130.16,73
+258,several,Clothing,131.25,27
+259,card,Books,293.18,29
+260,seek,Clothing,443.34,70
+261,hope,Clothing,257.13,89
+262,any,Toys,385.9,83
+263,end,Electronics,338.55,36
+264,nearly,Home Appliances,314.51,21
+265,ago,Toys,418.87,8
+266,him,Clothing,292.21,21
+267,participant,Electronics,417.81,33
+268,management,Books,246.17,92
+269,most,Books,340.96,80
+270,many,Books,257.77,25
+271,all,Electronics,74.59,18
+272,class,Electronics,206.54,35
+273,forget,Electronics,79.24,88
+274,girl,Electronics,150.27,82
+275,detail,Electronics,83.72,45
+276,care,Clothing,299.55,34
+277,thus,Books,208.13,83
+278,product,Electronics,429.33,96
+279,recently,Electronics,385.99,69
+280,improve,Toys,257.8,54
+281,husband,Clothing,70.51,8
+282,evidence,Books,209.21,60
+283,budget,Clothing,99.02,18
+284,subject,Clothing,478.85,18
+285,name,Clothing,89.98,5
+286,food,Toys,346.47,33
+287,information,Clothing,376.21,26
+288,general,Toys,432.26,27
+289,explain,Home Appliances,254.88,49
+290,work,Toys,188.45,15
+291,see,Clothing,193.32,18
+292,him,Books,226.05,79
+293,road,Books,339.37,70
+294,Democrat,Books,410.14,33
+295,direction,Electronics,451.92,97
+296,serve,Electronics,31.16,57
+297,home,Toys,166.06,61
+298,sell,Home Appliances,124.41,77
+299,official,Home Appliances,395.73,44
+300,car,Books,190.06,78
+301,consumer,Electronics,312.92,89
+302,reason,Books,197.82,70
+303,agency,Clothing,437.13,7
+304,take,Home Appliances,229.73,72
+305,bad,Books,24.05,69
+306,develop,Clothing,276.85,77
+307,however,Books,185.29,60
+308,run,Clothing,269.85,99
+309,democratic,Electronics,439.01,70
+310,provide,Books,486.27,71
+311,same,Clothing,327.3,0
+312,economy,Books,138.98,14
+313,until,Electronics,469.92,97
+314,thousand,Home Appliances,61.22,25
+315,go,Books,18.37,41
+316,protect,Home Appliances,389.36,40
+317,former,Home Appliances,63.7,92
+318,whom,Toys,352.2,85
+319,method,Books,484.1,51
+320,test,Books,403.87,100
+321,of,Books,335.97,5
+322,relate,Toys,401.21,43
+323,goal,Electronics,302.03,77
+324,hour,Clothing,407.62,94
+325,attack,Clothing,432.99,26
+326,director,Books,434.36,55
+327,order,Books,394.97,89
+328,anything,Books,33.36,29
+329,song,Clothing,139.75,87
+330,hand,Toys,124.8,49
+331,social,Books,145.45,9
+332,image,Toys,157.73,33
+333,page,Books,401.36,89
+334,dog,Toys,391.84,1
+335,dream,Home Appliances,284.42,56
+336,improve,Toys,388.05,6
+337,add,Books,146.13,91
+338,indeed,Toys,296.07,24
+339,him,Books,300.71,98
+340,system,Toys,259.11,75
+341,page,Clothing,445.67,71
+342,toward,Books,78.81,75
+343,evening,Clothing,287.5,25
+344,minute,Clothing,19.91,30
+345,figure,Books,173.12,100
+346,nature,Home Appliances,168.87,39
+347,pass,Clothing,298.78,33
+348,purpose,Clothing,325.67,14
+349,several,Books,307.64,17
+350,drug,Electronics,251.52,25
+351,company,Toys,355.63,71
+352,fine,Books,394.04,94
+353,effect,Electronics,124.73,71
+354,check,Clothing,12.18,16
+355,piece,Books,190.95,30
+356,her,Home Appliances,482.66,41
+357,learn,Home Appliances,373.18,38
+358,sense,Toys,224.6,25
+359,tough,Electronics,486.54,75
+360,book,Electronics,328.85,40
+361,home,Electronics,355.23,6
+362,she,Toys,17.52,81
+363,on,Clothing,24.25,80
+364,employee,Home Appliances,213.34,98
+365,turn,Home Appliances,30.73,98
+366,buy,Electronics,426.53,37
+367,front,Electronics,294.57,81
+368,cut,Clothing,198.59,23
+369,story,Clothing,173.6,0
+370,rock,Electronics,259.55,1
+371,chance,Electronics,440.25,36
+372,we,Books,295.16,68
+373,pretty,Books,467.28,63
+374,where,Electronics,304.43,57
+375,go,Home Appliances,123.53,16
+376,several,Electronics,442.95,86
+377,price,Home Appliances,83.62,3
+378,plan,Home Appliances,16.53,85
+379,list,Clothing,320.11,26
+380,apply,Electronics,265.28,99
+381,eye,Toys,245.54,85
+382,protect,Home Appliances,327.53,88
+383,not,Toys,102.38,74
+384,someone,Clothing,490.32,84
+385,development,Clothing,171.01,13
+386,owner,Electronics,424.81,79
+387,foot,Books,345.55,37
+388,suggest,Home Appliances,404.68,45
+389,community,Electronics,170.38,70
+390,strategy,Toys,455.95,21
+391,piece,Books,185.54,61
+392,unit,Electronics,120.21,82
+393,behind,Electronics,70.03,65
+394,buy,Books,438.77,55
+395,sense,Clothing,474.72,42
+396,talk,Home Appliances,371.41,18
+397,take,Home Appliances,457.13,15
+398,recent,Electronics,171.66,47
+399,thousand,Electronics,153.47,6
+400,start,Home Appliances,156.66,79
+401,environment,Home Appliances,270.62,10
+402,feeling,Toys,137.02,99
+403,and,Home Appliances,180.13,13
+404,trip,Home Appliances,257.06,84
+405,indicate,Home Appliances,206.54,70
+406,sense,Toys,65.96,32
+407,campaign,Toys,344.28,89
+408,wide,Clothing,31.3,32
+409,Republican,Home Appliances,202.55,74
+410,join,Electronics,417.0,7
+411,foreign,Electronics,174.79,15
+412,prove,Books,477.95,35
+413,hold,Toys,176.33,1
+414,serve,Toys,92.22,34
+415,bed,Books,110.41,6
+416,land,Toys,132.32,71
+417,manage,Clothing,165.84,23
+418,throughout,Books,381.38,13
+419,beyond,Home Appliances,93.41,27
+420,a,Toys,176.39,64
+421,also,Books,430.02,75
+422,different,Home Appliances,59.29,17
+423,size,Electronics,71.56,43
+424,property,Home Appliances,213.7,62
+425,author,Electronics,108.52,69
+426,church,Clothing,420.4,52
+427,including,Books,279.69,91
+428,next,Books,203.35,39
+429,modern,Toys,36.49,38
+430,energy,Electronics,369.43,15
+431,occur,Electronics,377.19,14
+432,town,Home Appliances,459.58,19
+433,style,Toys,106.62,58
+434,agree,Electronics,182.27,29
+435,add,Home Appliances,464.36,32
+436,that,Toys,408.73,60
+437,gun,Electronics,296.32,53
+438,newspaper,Electronics,473.23,1
+439,win,Books,343.87,84
+440,mouth,Toys,151.34,3
+441,anyone,Books,421.46,8
+442,on,Electronics,119.17,44
+443,trade,Electronics,422.29,37
+444,indicate,Books,119.74,62
+445,chance,Toys,31.21,38
+446,road,Clothing,41.2,9
+447,fund,Toys,115.09,28
+448,remember,Toys,444.46,41
+449,environmental,Clothing,377.73,90
+450,police,Toys,465.23,46
+451,should,Electronics,396.25,70
+452,culture,Electronics,444.55,68
+453,important,Clothing,155.61,75
+454,left,Clothing,139.92,60
+455,executive,Clothing,295.29,28
+456,pattern,Books,221.92,14
+457,tough,Books,221.25,73
+458,security,Clothing,285.15,55
+459,capital,Toys,207.15,66
+460,court,Books,55.32,33
+461,theory,Toys,151.04,92
+462,realize,Toys,490.71,91
+463,no,Electronics,449.37,41
+464,how,Home Appliances,79.04,4
+465,job,Electronics,456.46,65
+466,hair,Toys,493.95,38
+467,realize,Electronics,289.55,60
+468,including,Electronics,347.11,25
+469,else,Books,19.22,29
+470,cover,Toys,306.06,87
+471,also,Home Appliances,476.56,33
+472,morning,Toys,411.18,4
+473,item,Home Appliances,207.9,37
+474,physical,Electronics,299.47,41
+475,tree,Books,456.2,66
+476,girl,Electronics,48.04,32
+477,culture,Home Appliances,449.91,57
+478,sound,Clothing,208.0,59
+479,short,Books,44.42,11
+480,but,Books,117.04,63
+481,record,Books,249.35,94
+482,learn,Toys,129.69,7
+483,tax,Electronics,52.08,100
+484,some,Home Appliances,222.48,97
+485,change,Toys,142.78,59
+486,close,Toys,78.08,4
+487,garden,Electronics,334.73,61
+488,property,Toys,487.65,25
+489,month,Electronics,45.72,46
+490,loss,Electronics,327.48,56
+491,unit,Books,386.12,8
+492,them,Books,263.86,40
+493,Congress,Clothing,240.51,90
+494,value,Home Appliances,268.4,77
+495,sit,Toys,451.15,10
+496,large,Clothing,494.05,34
+497,buy,Toys,257.88,25
+498,close,Home Appliances,432.14,75
+499,collection,Clothing,105.46,44
