@@ -1,0 +1,41 @@
+ProductName,Sales,QueryType,UserID,UserName,TotalSpent,TotalTransactions,TotalRevenue
+him,21.0,top_selling_products,,,,,
+road,21.0,top_selling_products,,,,,
+charge,18.0,top_selling_products,,,,,
+inside,17.0,top_selling_products,,,,,
+sense,15.0,top_selling_products,,,,,
+go,15.0,top_selling_products,,,,,
+street,15.0,top_selling_products,,,,,
+next,14.0,top_selling_products,,,,,
+loss,14.0,top_selling_products,,,,,
+state,14.0,top_selling_products,,,,,
+,,total_revenue_per_user,765.0,Jason Simpson,2095.7200000000003,,
+,,total_revenue_per_user,215.0,Kelly Hopkins,1967.7400000000002,,
+,,total_revenue_per_user,220.0,Mrs. Alexa Young DDS,1932.52,,
+,,total_revenue_per_user,855.0,Stephanie Ford,1904.7800000000002,,
+,,total_revenue_per_user,18.0,Nicole Curtis,1903.06,,
+,,total_revenue_per_user,715.0,Danielle Moss,1878.81,,
+,,total_revenue_per_user,371.0,Kathryn Leon,1763.85,,
+,,total_revenue_per_user,762.0,Patricia Rhodes,1724.92,,
+,,total_revenue_per_user,1.0,Mrs. Lauren Kim,1724.26,,
+,,total_revenue_per_user,316.0,Kevin Holloway,1718.42,,
+,,most_active_users,765.0,,,8.0,
+,,most_active_users,18.0,,,8.0,
+,,most_active_users,976.0,,,7.0,
+,,most_active_users,43.0,,,7.0,
+,,most_active_users,898.0,,,6.0,
+,,most_active_users,316.0,,,6.0,
+,,most_active_users,644.0,,,6.0,
+,,most_active_users,220.0,,,6.0,
+,,most_active_users,10.0,,,6.0,
+,,most_active_users,527.0,,,6.0,
+him,,highest_revenue_products,,,,,5680.88
+road,,highest_revenue_products,,,,,5236.440000000001
+charge,,highest_revenue_products,,,,,4637.16
+inside,,highest_revenue_products,,,,,4627.82
+next,,highest_revenue_products,,,,,4306.239999999999
+state,,highest_revenue_products,,,,,4204.53
+pretty,,highest_revenue_products,,,,,4033.6600000000003
+hair,,highest_revenue_products,,,,,4022.32
+indicate,,highest_revenue_products,,,,,3823.98
+sense,,highest_revenue_products,,,,,3818.83
